@@ -28,8 +28,8 @@ Actualmente desarrollo un **sistema web de gestión pedagógica y contable para 
 
 - 📧 Email: nicko15_@hotmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/altamiranonicolas)  
-- 🌐 [Sitio Web](https://sevirtual.com.ar/)
-- 🌐 [Sitio Web](https://TeOrganiza.com.ar/)
+- 🌐 [SeVirtual](https://sevirtual.com.ar/)
+- 🌐 [TeOrganiza](https://TeOrganiza.com.ar/)
 
 ¡Gracias por visitar mi perfil!  
 🙌 Estoy abierto a nuevas oportunidades, desafíos colaborativos o simplemente a charlar sobre tecnología y datos.
